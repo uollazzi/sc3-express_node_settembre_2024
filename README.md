@@ -3,7 +3,7 @@
 Istruzioni di utilizzo:
 
 ```
-git clone https://github.com/uollazzi/node-ts-starter.git <nome-progetto>
+git clone https://github.com/uollazzi/node-starter-ts.git <nome-progetto>
 ```
 
 ```
